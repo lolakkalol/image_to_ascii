@@ -53,10 +53,3 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     
     Ok(())
 }
-
-/*
-TODO
-[x] Put code into seperate functions
-[ ] Fix error handling
-[x] Put some of the code in seperate modules
-*/
